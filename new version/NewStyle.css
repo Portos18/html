@@ -1,0 +1,55 @@
+.Homepage{
+    width: 100%;
+    margin: auto;
+    font-family: 'Source sans pro', Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.info.générale{
+    height: 250px;
+    width: 900px;
+}
+
+
+section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+
+h2{
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388DD;
+}
+
+.duree{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#etude-gauche p{
+    margin-bottom: 6px;
+}
+
+#lang-droite-sub p{
+    margin-top: 60px;
+}
+
+#lang-droite p{
+    line-height: 25px;
+}
+
+#tps-gauche{
+    margin-top: 56px;
+}
+
+strong{
+    font-size: 20px;
+}
